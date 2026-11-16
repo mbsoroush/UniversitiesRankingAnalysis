@@ -7,8 +7,7 @@
 
 A data-analysis project on the top 1,000 universities in the world (61 countries). It goes beyond exploring the data: it audits and repairs hidden data-quality problems, tests hypotheses with proper effect sizes and multiple-testing correction, quantifies uncertainty with bootstrap, permutation and Bayesian methods, and uses regression, PCA and clustering as *explanatory* tools. **There is no predictive machine learning** – the goal is to understand the data, not to forecast it.
 
-> **Notebook:** [`universities_ranking_analysis.ipynb`](universities_ranking_analysis.ipynb) (executed, outputs included) · **Kaggle:** [run it there](https://www.kaggle.com/code/mbsoroush/universities-ranking-analysis)
-> **Data:** *Universities Information Dataset* – my own Kaggle dataset ([link](https://www.kaggle.com/datasets/mbsoroush/universities-information-dataset)) of the CWUR 2018–19 ranking. Ranking methodology and original data © [CWUR](https://cwur.org/).
+> **Data:** *Universities Information Dataset* – ([link](https://www.kaggle.com/datasets/mbsoroush/universities-information-dataset))
 
 ---
 
