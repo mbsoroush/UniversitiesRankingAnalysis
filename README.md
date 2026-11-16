@@ -1,4 +1,5 @@
-# 🎓 What Makes a World-Class University?
+# Universities Ranking Analysis¶
+## 🎓 What Makes a World-Class University?
 ### A statistical analysis of the CWUR 2018–19 World University Ranking
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](PASTE_KAGGLE_NOTEBOOK_LINK)
