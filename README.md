@@ -89,6 +89,3 @@ On Kaggle: attach the dataset and click **Save & Run All** – the file path is 
 ├── requirements.txt
 └── README.md
 ```
-
-## Author
-**YOUR NAME** · [GitHub](PASTE_GITHUB_PROFILE_LINK) · [Kaggle](PASTE_KAGGLE_PROFILE_LINK) · [LinkedIn](PASTE_LINKEDIN_LINK)
